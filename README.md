@@ -21,8 +21,8 @@ This repo contains a simple Neuron written in Elixir using [Nx](https://github.c
 
     After learning:
     [0.0, 0.0] > 0.0
-    [0.0, 1.0] > 1.0
-    [1.0, 0.0] > 1.0
+    [0.0, 1.0] > 0.0
+    [1.0, 0.0] > 0.0
     [1.0, 1.0] > 1.0
 
     > elixir elixir logical_or.exs
